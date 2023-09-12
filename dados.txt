@@ -1,0 +1,53 @@
+4
+20231 3 5
+21428 1658029364 3
+Pedro Vieira Rocha
+1111 1112 1113
+21417 12345678900 2
+Mateus Sze Cosenza
+1111 1114
+21420 11122233344 1
+Pedro Bulcao
+1115
+1111 4
+Matematica Discreta
+Velosum
+1112 4
+Algebra Linear
+Ramon
+1113 4
+Calculo 4
+Lima Vaz
+1114 4
+Lab Prog
+Duarte
+1115 3
+Fisica 3
+Peruano
+20201 2 2
+12345 99999999999 2
+Lima Vaz
+1111 2221
+22222 88888888888 2
+Rotava
+1111 2221
+1111 4
+Mat Dis
+Velosum
+2221 2
+Filosofia
+Vieira
+20191 1 1
+21417 12345678900 1
+Mateus Sze Cosenza
+3333
+3333 3
+Calculo 1
+Cerqueria
+20182 1 1
+21428 1658029364 1
+Pedro Vieira Rocha
+1111
+1111 4
+Mat Dis
+Velosum
